@@ -1,0 +1,5 @@
+# Project 0
+
+Web Programming with Python and JavaScript
+there are six pages in this site, there is index.html page which servs as the home page, you can access the home page across all other pages. in the index.html page their is a list of items both ordered as well as unordered list of items. There is also a table which shows the top universities in the world. there is a sidebar which shows some hyperlinks to some interesting topics like latest news, gossip,entertainment, grades and my courses. To the Profile page, it gives a brief autobiography about the author of this site, read it and get some interesting insights.The education page shows some image slides, nothing much for now. The my courses page shows hyperlinks of the some list of courses selected by the author.My Grades page show list of courses and the performance of the student, in the form of a table. My blog page shows gallery of some
+interesting images. 
